@@ -1,0 +1,7 @@
+
+  Id     Duration CommandLine
+  --     -------- -----------
+   1        0.009 Get-History
+   2        0.147 Get-History >> .\PS-History\
+   3        0.023 Get-History >> 'D:\OS-Scripting\OSS-PowerShell\labo01\PS-History\'
+   4        0.018 ls
