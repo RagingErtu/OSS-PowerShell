@@ -1,0 +1,15 @@
+
+  Id CommandLine                                                                                                       
+  -- -----------                                                                                                       
+   1 ls                                                                                                                
+   2 dir                                                                                                               
+   3 Get-ADGroup                                                                                                       
+   4 Get-ADGroup                                                                                                       
+   5 Get-ADUser -Filter *                                                                                              
+   6 (Get-ADUser -Filter *).name                                                                                       
+   7 (Get-ADGroups -Filter *).name                                                                                     
+   8 (Get-ADGroup -Filter *).name                                                                                      
+   9 (Get-ADOrganizationalUnit -Filter *).name                                                                         
+  10 Get-History >> "D:\OS-Scripting\OSS-PowerShell\labo02\PS-History\labo02.txt"                                      
+
+
